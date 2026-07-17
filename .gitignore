@@ -1,0 +1,9 @@
+# ROS 2 auto-generated folders
+build/
+install/
+log/
+
+# Python/VS Code cache files
+__pycache__/
+*.pyc
+.vscode/
